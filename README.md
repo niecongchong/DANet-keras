@@ -14,3 +14,4 @@
 * `layers/attention:`PAM空间注意力和CAM通道注意力模块搭建。
 * `utils/loss.py:`损失函数，包含`dice_loss、ce_dice_loss、jaccard_loss(IoU loss)、ce_jaccard_loss、tversky_loss、focal_loss`
 * `utils/metrics.py:`评价指标，包含`precision、recall、accuracy、iou、f1`等。
+* `train.html:`训练过程记录，保存为html文件。
